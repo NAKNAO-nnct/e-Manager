@@ -1,5 +1,5 @@
 import sqlite3
-import setting as fs
+import config as fs
 
 
 
