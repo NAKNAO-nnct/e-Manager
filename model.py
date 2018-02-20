@@ -1,9 +1,6 @@
 import sqlite3
 import config as fs
 
-
-
-
 # SQLクエリ実行
 def access(query):
     connection = sqlite3.connect(fs.SQL)
