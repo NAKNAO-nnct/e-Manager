@@ -11,9 +11,9 @@ COOKIE_KEY = 'mofumofu'
 IMG_PATH = 'contents/photo/' 
 
 # AWS API
-AMAZON_ACCESS_KEY = ''
-AMAZON_SECRET_KEY = ''
-AMAZON_ASSOC_TAG = ''
+AMAZON_ACCESS_KEY = 'おしえないよ！'
+AMAZON_SECRET_KEY = 'じぶんでなんとかしてね！'
+AMAZON_ASSOC_TAG = 'もふもふ'
 
 # SQLite path
 SQL = 'sql/user.db' # User関連
