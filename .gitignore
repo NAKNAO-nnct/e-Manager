@@ -1,2 +1,7 @@
 __pycache__/*
 *.pyc
+
+server/__pycache__/*
+server/*.pyc
+
+server/mondodb/*
