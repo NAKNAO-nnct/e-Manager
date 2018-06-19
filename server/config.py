@@ -1,6 +1,6 @@
 # Server
 document_root = 'http://localhost:8080'
-DOC_HOST = '127.0.0.0'
+DOC_HOST = '0.0.0.0'
 DOC_PORT = 8080
 DOC_URL = (DOC_HOST, DOC_PORT)
 
@@ -8,7 +8,7 @@ DOC_URL = (DOC_HOST, DOC_PORT)
 COOKIE_KEY = 'mofumofu'
 
 # 画像保存PATH
-IMG_PATH = 'contents/photo/' 
+IMG_PATH = 'contents/photo/'
 
 # AWS API
 AMAZON_ACCESS_KEY = 'おしえないよ！'

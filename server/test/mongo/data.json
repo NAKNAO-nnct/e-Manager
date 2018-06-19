@@ -1,8 +1,36 @@
-[
-    {
-        "user": {
-            "admin": "pass"
+{
+    "ID": "orehajyaian",
+    "personal" : {
+        "Student_num" : "1921",
+        "JNAME" : "剛田武",
+        "JNAME_kana" : "ゴウダタケシ",
+        "Department" : "情報工学科",
+        "Email" : "takeshi@goda.go.jaian",
+        "Sex" : "Man",
+        "Grade" : 2,
+        "in" : 1968,
+        "out" : 2045,
+        "SNS" : {
+            "Twitter" : "@jaian_orere",
+            "Skype" : "@jaian_orere"
+        }
+    },
+    "joken" : {
+        "permission" : "OB",
+        "Slack_id" : "orehajyaian",
+        "in" : 1968,
+        "out" : 2045
+    },
+    "financial" : {
+        "2015" : {
+            "payment" : true,
+            "money" : 1500,
+            "note" : ""
         },
-        "passwd" : "qaz"
+        "2016" : {
+            "payment" : false,
+            "money" : 1500,
+            "note" : ""
+        }
     }
-]
+}
